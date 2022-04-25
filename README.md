@@ -41,7 +41,7 @@
 - Dar deploy:
 `sls deploy --verbose`
 
--Una ves creado su tabla de base de datos en descomentar y agregar el link:
+-Una ves creado su tabla de base de datos en aws-dynamodb descomentar y agregar el link:
 ```
   iamRoleStatements:
     - Effect: Allow
