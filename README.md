@@ -29,7 +29,7 @@
 - Instalar el serverless:
 `npm install -g serverless`
 
-- comentar iamRoleStatements en el archivo serverless.yml para que cause conflictos:
+- comentar iamRoleStatements en el archivo serverless.yml para que no cause conflictos:
 ```
 #  iamRoleStatements:
 #    - Effect: Allow
