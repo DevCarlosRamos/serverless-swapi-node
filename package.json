@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@middy/core": "^2.5.3",
+    "@middy/http-json-body-parser": "^2.5.3",
+    "aws-sdk": "^2.1044.0",
+    "node-fetch": "^2.6.7",
+    "serverless-auto-swagger": "^2.4.1",
+    "uuid": "^8.3.2"
+  },
+  "name": "aws-node-swapi",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC"
+}
